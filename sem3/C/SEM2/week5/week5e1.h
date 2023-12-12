@@ -1,0 +1,1 @@
+void Counter(char *str,char c,int l); 
